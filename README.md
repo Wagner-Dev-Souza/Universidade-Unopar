@@ -1,2 +1,2 @@
-# Curso-C-UNOPAR
-Repositório contendo exemplos em C# das aulas unopar
+# UNOPAR ANHAGUERA
+Curso Superior de Tecnologia em Desenvolvimento Back-end
